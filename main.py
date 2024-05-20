@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 
 # Set authentication key
-auth_key = '20230522VOBNQFUDC7WSEYSSB8QZQ'
+auth_key = '__'
 cntNo = []
 
 try:
