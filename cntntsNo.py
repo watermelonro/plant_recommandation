@@ -9,7 +9,7 @@ try:
         # Send GET request to the API URL
         url = 'http://api.nongsaro.go.kr/service/garden/gardenList'
         params = {
-            'apiKey': '20230522VOBNQFUDC7WSEYSSB8QZQ',
+            'apiKey': '__',
             'pageNo': pageNo
         }
         response = requests.get(url, params=params)
